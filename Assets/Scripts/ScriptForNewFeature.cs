@@ -16,6 +16,7 @@ public class ScriptForNewFeature : MonoBehaviour {
 
     public void testing()
     {
+        Debug.Log("Hello World!");
         return;
     }
 }
