@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: ffc9638268c074944be82a4b2b57aada
+timeCreated: 1495906439
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerDeathSpriteSheet_0
+    21300002: PlayerDeathSpriteSheet_1
+    21300004: PlayerDeathSpriteSheet_2
+    21300006: PlayerDeathSpriteSheet_3
+    21300008: PlayerDeathSpriteSheet_4
+    21300010: PlayerDeathSpriteSheet_5
+    21300012: PlayerDeathSpriteSheet_6
+    21300014: PlayerDeathSpriteSheet_7
+    21300016: PlayerDeathSpriteSheet_8
+    21300018: PlayerDeathSpriteSheet_9
+    21300020: PlayerDeathSpriteSheet_10
+    21300022: PlayerDeathSpriteSheet_11
+    21300024: PlayerDeathSpriteSheet_12
+    21300026: PlayerDeathSpriteSheet_13
+    21300028: PlayerDeathSpriteSheet_14
+    21300030: PlayerDeathSpriteSheet_15
+    21300032: PlayerDeathSpriteSheet_16
+    21300034: PlayerDeathSpriteSheet_17
+    21300036: PlayerDeathSpriteSheet_18
+    21300038: PlayerDeathSpriteSheet_19
+    21300040: PlayerDeathSpriteSheet_20
+    21300042: PlayerDeathSpriteSheet_21
+    21300044: PlayerDeathSpriteSheet_22
+    21300046: PlayerDeathSpriteSheet_23
+    21300048: PlayerDeathSpriteSheet_24
+    21300050: PlayerDeathSpriteSheet_25
+    21300052: PlayerDeathSpriteSheet_26
+    21300054: PlayerDeathSpriteSheet_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1683
+        width: 234
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1664
+        width: 272
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1652
+        width: 302
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1639
+        width: 315
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1627
+        width: 334
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1227
+        width: 346
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1221
+        width: 352
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1221
+        width: 358
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1215
+        width: 365
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1215
+        width: 367
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 815
+        width: 368
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 815
+        width: 371
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 815
+        width: 377
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 815
+        width: 377
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 815
+        width: 373
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 421
+        width: 368
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 421
+        width: 371
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 421
+        width: 371
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 421
+        width: 371
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 421
+        width: 367
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 368
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 221
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 58
+        width: 327
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 64
+        width: 321
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 83
+        width: 290
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 177
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 171
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayerDeathSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 24
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

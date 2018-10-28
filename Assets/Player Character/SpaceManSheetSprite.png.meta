@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 8a567a15821c7614bb980fa06ac73782
+timeCreated: 1495296850
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpaceManSheetSprite_0
+    21300002: SpaceManSheetSprite_1
+    21300004: SpaceManSheetSprite_2
+    21300006: SpaceManSheetSprite_3
+    21300008: SpaceManSheetSprite_4
+    21300010: SpaceManSheetSprite_5
+    21300012: SpaceManSheetSprite_6
+    21300014: SpaceManSheetSprite_7
+    21300016: SpaceManSheetSprite_8
+    21300018: SpaceManSheetSprite_9
+    21300020: SpaceManSheetSprite_10
+    21300022: SpaceManSheetSprite_11
+    21300024: SpaceManSheetSprite_12
+    21300026: SpaceManSheetSprite_13
+    21300028: SpaceManSheetSprite_14
+    21300030: SpaceManSheetSprite_15
+    21300032: SpaceManSheetSprite_16
+    21300034: SpaceManSheetSprite_17
+    21300036: SpaceManSheetSprite_18
+    21300038: SpaceManSheetSprite_19
+    21300040: SpaceManSheetSprite_20
+    21300042: SpaceManSheetSprite_21
+    21300044: SpaceManSheetSprite_22
+    21300046: SpaceManSheetSprite_23
+    21300048: SpaceManSheetSprite_24
+    21300050: SpaceManSheetSprite_25
+    21300052: SpaceManSheetSprite_26
+    21300054: SpaceManSheetSprite_27
+    21300056: SpaceManSheetSprite_28
+    21300058: SpaceManSheetSprite_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 741
+        width: 136
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 736
+        width: 136
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 752
+        width: 136
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 742
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 750
+        width: 137
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 748
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 738
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 738
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 738
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 517
+        width: 136
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_10
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 742
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 511
+        width: 136
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 732
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 511
+        width: 136
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 728
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 515
+        width: 136
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 607
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 508
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 508
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 512
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 506
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 508
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 270
+        width: 135
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 270
+        width: 136
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 501
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 501
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 135
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 19
+        width: 136
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 19
+        width: 140
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceManSheetSprite_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 255
+        width: 135
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
